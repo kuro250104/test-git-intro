@@ -1,0 +1,17 @@
+git init
+git add
+	file	le nom du fichier
+	*	ficher sans extension
+	.     tout les fichiers
+
+git commit -m "le message"
+git push/ pull	pour mettre en ligne
+
+
+
+mettre en ligne
+
+
+git init 
+git add .
+git 
