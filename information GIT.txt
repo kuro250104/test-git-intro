@@ -21,3 +21,4 @@ git push -u origin main
 
 git branch ##nom de la branche a crée
 git checkout ##nom de la branche vers laquelle il faut switch
+	#ne pas oublier de commit et push avant de changer de branche
