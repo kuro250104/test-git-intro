@@ -1,0 +1,23 @@
+git init
+
+git add file   le nom du fichier
+	*      tout les fichiers sans extensions
+	.      tout les fichiers
+
+git commit -m "{msg}"
+
+git push
+
+(git pull recupérer depuis github)
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin {link}
+git push -u origin main
+
+
+git branch ##nom de la branche a crée
+git checkout ##nom de la branche vers laquelle il faut switch
